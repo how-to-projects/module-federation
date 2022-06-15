@@ -1,5 +1,10 @@
 # ModuleFederation
 
+<!-- 
+    Original Repo
+    https://github.com/manfredsteyer/module-federation-plugin-example/commits/main 
+-->
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
